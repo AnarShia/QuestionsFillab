@@ -1,0 +1,17 @@
+1. Run the questions by:
+    - Navigate to the `./Q{x}/cmd` directory.
+    - Run the command `go run main.go`.
+
+
+## Built With
+
+* [Go](https://golang.org/) - The backend framework used.
+
+## Authors
+
+* **Muhammet Çağrı Karaca** [AnarShia](https://github.com/AnarShia/QuestionsFillab)
+
+## Acknowledgments
+
+This project was made possible by the use of various resources such as YouTube, Go docs, personal webpages, ChatGPT, and GitHub Copilot.
+
